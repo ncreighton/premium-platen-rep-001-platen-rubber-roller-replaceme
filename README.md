@@ -1,0 +1,2 @@
+# premium-platen-rep-001-platen-rubber-roller-replaceme
+Stop guessing roller sizes and wasting material—get a systematic log to record every platen rubber roller replacement measurement.  This Notion template eliminates the chaos of sticky notes and scattered spreadsheets. It provides a structured database to log diameter, length, hardness, and date for each roller replacement, ensuring consistent sizin
